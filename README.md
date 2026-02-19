@@ -1,13 +1,46 @@
-# Marketing Experimentation & Store Testing – Pressbyrån and 7-Eleven
+# Marketing Experimentation & Store Testing –– Physical Stores
 
-This repository contains deliverables on: 
+This repository contains deliverables from **semi-randomized experiments** -when a randomized setup is not feasible- evaluating marketing interventions and operational changes.
 
-**Semi-randomized: Store testing analysis with Synthetic Control Method(SCM)**  
-   - Merketing tests run at Pressbyrån and 7-Eleven stores.  
-   - Analyzed using **Synthetic Control Methods** to evaluate impact.  
-   - Includes planning tools, method descriptions, and workflows to show structured experiment design and execution.
-   - Including R code base, method description, and planning tools. 
+## **Semi-randomized: Store testing analysis with Synthetic Control Method(SCM)**  
+
+The goal of these experiments is to measure the impact of interventions in physical stores using the **Synthetic Control Method (SCM)**. This framework moves decision-making from intuition-based to **evidence-driven**, providing actionable insights for retail growth.
+- Marketing tests conducted in physical convenience stores, 7-Eleven and Pressbyrån.  
+- Analyzed using **Synthetic Control Method (SCM)** to measure the true effect of interventions in a semi randomized setup.  
+- Includes structured planning tools, method documentation, workflows, and R code to support experiment design, execution, and analysis.
+
+
+## Objectives
+
+- Measure the impact of store-level interventions on sales, customer behavior, or operational metrics.
+- Apply structured, data-driven experimentation to reduce bias from seasonality, trends, or external noise.
+- Provide a replicable framework for planning, executing, and evaluating in-store tests.
+
+## What’s Included
+
+- **Method Description:** PDF detailing the SCM framework, step-by-step store test execution, and evaluation strategy.
+- - **Code Base:** R scripts to implement SCM models, compute True Lift, and generate results.
+- **Planning Tool:** Excel-based relational planner for defining, scheduling, and tracking store experiments.
+- **Mind Map:** Visual representation of different experimentation methods and workflows.
+- **Results:** Sample outputs demonstrating application of SCM to store tests.
+
+
+
+```
+Semi-Randomized-Experimentation/
+│
+├── README.md
+├── method_description/
+│   └── Store_Testing_Method.pdf
+├── codes/
+│   └── SCM_Analysis.R
+├── planning_tool/
+│   └── Store_Testing_Planner.xlsx
+├── mindmap/
+│   └── Experimental_Methods_Mindmap.pdf
+├── results/
+│   └── 
+└── .gitignore
+```
 
 > ⚠️ All files are anonymized and focus on methodology, structure, and analysis.
-
-
