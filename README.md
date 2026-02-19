@@ -2,7 +2,7 @@
 
 This repository contains deliverables on: 
 
-**1. A Semi-randomized: Store testing analysis with Synthetic Control Method(SCM)**  
+**A Semi-randomized: Store testing analysis with Synthetic Control Method(SCM)**  
    - Retail tests run at Pressbyrån and 7-Eleven stores.  
    - Analyzed using **Synthetic Control Methods** to evaluate impact.  
    - Includes planning tools, method descriptions, and workflows to show structured experiment design and execution.
