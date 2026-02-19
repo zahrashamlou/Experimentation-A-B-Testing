@@ -1,4 +1,4 @@
-# Marketing Experimentation & In-Store Testing – Pressbyrån and 7-Eleven
+# Marketing Experimentation & Store Testing – Pressbyrån and 7-Eleven
 
 This repository contains deliverables on: 
 
