@@ -19,9 +19,10 @@ The goal of these experiments is to measure the impact of interventions in physi
 ## What’s Included
 
 - **Method Description:** PDF detailing the SCM framework, step-by-step store test execution, and evaluation strategy.
-- - **Code Base:** R scripts to implement SCM models, compute True Lift, and generate results.
 - **Planning Tool:** Excel-based relational planner for defining, scheduling, and tracking store experiments.
-- **Mind Map:** Visual representation of different experimentation methods and workflows.
+- **Testing_Methods:** Visual representation of different experimentation methods and workflows.
+- **Step_by_Step_Guidance:** Visual Guidance mind map of running an experiment in a semi randomized retail setup.
+- **Code Base:** R scripts to implement SCM models, compute True Lift, and generate results. (In Prosress)
 - **Results:** Sample outputs demonstrating application of SCM to store tests.
 
 
@@ -30,14 +31,13 @@ The goal of these experiments is to measure the impact of interventions in physi
 Semi-Randomized-Experimentation/
 │
 ├── README.md
-├── method_description/
-│   └── Store_Testing_Method.pdf
+├── Method_Description.pdf
+├── Step_by_Step_Guidance.pdf
+├── Testing_Methods.pdf
 ├── codes/
 │   └── SCM_Analysis.R
 ├── planning_tool/
 │   └── Store_Testing_Planner.xlsx
-├── mindmap/
-│   └── Experimental_Methods_Mindmap.pdf
 ├── results/
 │   └── 
 └── .gitignore
