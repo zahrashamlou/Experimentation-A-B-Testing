@@ -18,7 +18,7 @@ The goal of these experiments is to measure the impact of interventions in physi
 
 ## What’s Included
 
-- **Method Description:** PDF detailing the SCM framework, step-by-step store test execution, and evaluation strategy.
+- **[Method Description](https://github.com/zahrashamlou/Semi-Randomized-Experimentation/blob/main/Method%20Description.pdf) :** PDF detailing the SCM framework, step-by-step store test execution, and evaluation strategy.
 - **Step_by_Step_Guidance:** Visual Guidance mind map of running an experiment in a semi randomized retail setup.
 - **Testing_Methods:** Visual representation of different experimentation methods and workflows.
 - **[Planning Tool](https://docs.google.com/spreadsheets/d/1nlxEjyWH7uzx1KbdqwYSVwptr1H5RO1JU0_s5cWQQ8s/edit?usp=sharing) :** Excel-based relational planner for defining, scheduling, and tracking store experiments.
